@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AutoSelectLottoNumber</string>
+    <string name="addNumber">번호 추가하기</string>
+    <string name="clearNumber">초기화</string>
+</resources>
