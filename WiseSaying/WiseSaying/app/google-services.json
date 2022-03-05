@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "746606710638",
+    "project_id": "wisesaying-b3a4e",
+    "storage_bucket": "wisesaying-b3a4e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746606710638:android:e25918be9148e778227b7f",
+        "android_client_info": {
+          "package_name": "com.seokan.wisesaying"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "746606710638-3h79ad2rs5qafr2vi94v01a67sq50rgs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkE175CpgoDm46b-_fcSacmXPiuvDrshc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "746606710638-3h79ad2rs5qafr2vi94v01a67sq50rgs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
